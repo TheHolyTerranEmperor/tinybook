@@ -1,8 +1,6 @@
 # tinybook
 smol e-reader
 
-Resolution - 250x122
-
 ## Pi 0 2 W
 ```
 https://a.co/d/fXYo6Af
